@@ -42,7 +42,7 @@ This is a Python-based automation project that scrapes Amazon product prices usi
 
 ### 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/amazon-price-tracker.git
+git clone https://github.com/Abdulwaashim/amazon-price-tracker.git
 cd amazon-price-tracker
 ```
 
@@ -50,6 +50,7 @@ cd amazon-price-tracker
 
 ```bash
 pip install selenium webdriver-manager
+```
 
 ### 3. Configure Email:
   - Enable 2-Step Verification in your Gmail
@@ -59,15 +60,19 @@ pip install selenium webdriver-manager
 sender_email = "your_email@gmail.com"
 receiver_email = "recipient_email@gmail.com"
 app_password = "your_generated_app_password"
+```
 
 ### Run Script
+```bash
 python amazon_price_tracker.py
+```
 
 ### Example Output
 ```bash
 Product: boAt Bassheads 105 Wired Earphones
 Current Price: ₹399
 😕 No drop yet. Current price ₹399 is above ₹350.
+```
 
 ### 👨‍💻 Author
 Abdul Waashim
