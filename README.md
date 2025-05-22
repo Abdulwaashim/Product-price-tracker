@@ -44,6 +44,7 @@ This is a Python-based automation project that scrapes Amazon product prices usi
 ```bash
 git clone https://github.com/your-username/amazon-price-tracker.git
 cd amazon-price-tracker
+```
 
 ### 2. Install dependencies:
 
