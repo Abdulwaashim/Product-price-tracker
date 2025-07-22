@@ -1,4 +1,4 @@
-# 🛒 Amazon Price Tracker with Email Alerts
+# 🛒 Product Price Tracker with Email Alerts
 
 This is a Python-based automation project that scrapes Amazon product prices using Selenium and sends you an **email alert** when the price drops below your set threshold.
 
